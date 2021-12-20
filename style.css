@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.page {
+  border: 1px solid gray;
+  background: lightsteelblue;
+  position: fixed;
+  top: 0;
+  right: 0px;
+  padding: 5px;
+}
+
+#loading {
+  color: darkblue;
+  margin: 6px 0;
+}
